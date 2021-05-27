@@ -1,0 +1,1 @@
+Este repositorio tiene el index de la paguina web New Style, esta proyecto esta basado en angular.
