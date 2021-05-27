@@ -1,3 +1,4 @@
 Este repositorio tiene el index de la paguina web New Style, esta proyecto esta basado en angular.
-Esta paguina esta creada con un proyecto de Angular
+Esta paguina esta creada con un proyecto de Angular.
+Clientes: Gerente general de la estetica New Style
 Creador: Diana América Martínez Garcia
